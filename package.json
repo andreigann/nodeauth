@@ -9,6 +9,5 @@
   "author": "",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "mongoose": "~4.1.8"
   }
 }
