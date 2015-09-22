@@ -1,13 +1,11 @@
 {
-  "name": "nodeauth-app",
-  "version": "1.0.0",
-  "description": "Node auth authorization using Mongoose",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "BSD-2-Clause",
+  "name": "node-token-jwt",
+  "main": "server.js",
   "dependencies": {
+    "morgan": "~1.6.1",
+    "express": "~4.13.3",
+    "body-parser": "~1.14.0",
+    "jsonwebtoken": "~5.0.5",
+    "mongoose": "~4.1.8"
   }
 }
